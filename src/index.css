@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cafe-brown: #8B4513;
+  --color-cafe-beige: #F5F7FA;
+  --color-sienna: #A0522D; /* For hover states */
+}
